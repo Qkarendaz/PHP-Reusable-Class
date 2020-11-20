@@ -2,6 +2,10 @@
 
 Creating a class that can be re-used in terms of slecting, updating and running other mysql queries with Object Oriented Programming in PHP.
 
+## Note
+
+In the database connection, the host address, host username, host password and database name used are to be changed to your own names respectively.
+
 ## Explained
 
 Inside the classes folder, there are four (4) files,
@@ -24,4 +28,5 @@ Then in the includes foldeer, **the classautoload.php** is a file that will refe
 
 ## Testing
 
-To test the code, all you have to do is create and instance/object of any of the classes created in the classes folder, 
+
+To test the code, all you have to do is create an instance/object of any class created in the classes folder, just like in the index.php file....
