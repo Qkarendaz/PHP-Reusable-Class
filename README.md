@@ -37,4 +37,4 @@ create and instance of any of the classes (either view class or control class) w
 
 ## Contributors
 
-- Stephen Peters <qkarendaz4real@gmail.com>
+- Stephen Peters
