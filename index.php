@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+
+    	$newobject = new View();
+    	$newobject->show("Lucy");
+
+    ?>
 </body>
 </html>
