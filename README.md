@@ -6,7 +6,7 @@ Creating a class that can be re-used in terms of slecting, updating and running 
 
 In the database connection, the host address, host username, host password and database name used are to be changed to your own names respectively.
 
-## Explained
+## Folders and Files Explained
 
 Inside the classes folder, there are four (4) files,
 - control.php
@@ -28,5 +28,5 @@ Then in the includes foldeer, **the classautoload.php** is a file that will refe
 
 ## Testing
 
-
+create a database and name it whatever you want, (in this project it was named "newdb")
 To test the code, all you have to do is create an instance/object of any class created in the classes folder, just like in the index.php file....
