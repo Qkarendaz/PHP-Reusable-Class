@@ -34,3 +34,7 @@ then create a table (in this case, it was name "members" and it has 4 columns...
 To test the code, all you have to do is create an instance/object of any class created in the classes folder, just like in the index.php file....
 
 create and instance of any of the classes (either view class or control class) with their values respectivey and run the code.
+
+## Contributors
+
+- Stephen Peters <qkarendaz4real@gmail.com>
